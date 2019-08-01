@@ -4,7 +4,7 @@
       <li>
         <a>
           <span>
-            <i>评分鼓励</i>
+            <i>评分鼓励zhe</i>
           </span>
           <br />
         </a>
